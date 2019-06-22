@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1560677177 source:c:\users\yusuf\downloads\comparing sorting algorithms\main.cpp
+	<bits/stdc++.h>
+	"QuickSorter.h"
+	"SelectionSorter.h"
+	"ShellSorter.h"
+	"sorter.h"
+	"Testbed.h"
+
+1560677177 c:\users\yusuf\downloads\comparing sorting algorithms\include\quicksorter.h
+	"Sorter.h"
+	"bits/stdc++.h"
+
+1560677177 c:\users\yusuf\downloads\comparing sorting algorithms\include\sorter.h
+
+1560677177 c:\users\yusuf\downloads\comparing sorting algorithms\include\selectionsorter.h
+	"Sorter.h"
+	<bits/stdc++.h>
+
+1560677177 c:\users\yusuf\downloads\comparing sorting algorithms\include\shellsorter.h
+	"Sorter.h"
+
+1560677177 c:\users\yusuf\downloads\comparing sorting algorithms\include\testbed.h
+	"Sorter.h"
+	"bits/stdc++.h"
+
+1560677177 source:c:\users\yusuf\downloads\comparing sorting algorithms\src\quicksorter.cpp
+
+1560677177 source:c:\users\yusuf\downloads\comparing sorting algorithms\src\selectionsorter.cpp
+
+1560677177 source:c:\users\yusuf\downloads\comparing sorting algorithms\src\shellsorter.cpp
+
